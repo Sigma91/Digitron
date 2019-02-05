@@ -1,0 +1,2 @@
+Klasican digitron baziran u 2 klase i jednom paketu.
+U klasi digitron smo napravili metode koje se koriste za digitron a aritmetika nam je glavna klasa koja povlaci te metode i kreira nam interakciju sa userom. 
